@@ -1,0 +1,217 @@
+\newcommand{\noopsort}[1]{} \newcommand{\printfirst}[2]{#1}
+  \newcommand{\singleletter}[1]{#1} \newcommand{\switchargs}[2]{#2#1}
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{Jiang2010}
+Z.~Jiang, \href{http://dl.acm.org/citation.cfm?id=1831726}{{Automated analysis
+  of load testing results}}, Ph.D. thesis (2010).
+\newline\urlprefix\url{http://dl.acm.org/citation.cfm?id=1831726}
+
+\bibitem{Molyneaux2009}
+I.~Molyneaux, {The Art of Application Performance Testing: Help for Programmers
+  and Quality Assurance}, 1st Edition, "O'Reilly Media, Inc.", 2009.
+
+\bibitem{Wert2014}
+A.~Wert, M.~Oehler, C.~Heger, R.~Farahbod,
+  \href{http://dx.doi.org/10.1145/2602576.2602579}{{Automatic detection of
+  performance anti-patterns in inter-component communications}}, 2014, pp.
+  3--12.
+\newblock \href {http://dx.doi.org/10.1145/2602576.2602579}
+  {\path{doi:10.1145/2602576.2602579}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1145/2602576.2602579}
+
+\bibitem{Afzal2009a}
+W.~Afzal, R.~Torkar, R.~Feldt, {A systematic review of search-based testing for
+  non-functional system properties}, Vol.~51, Elsevier B.V., 2009, pp.
+  957--976.
+\newblock \href {http://dx.doi.org/10.1016/j.infsof.2008.12.005}
+  {\path{doi:10.1016/j.infsof.2008.12.005}}.
+
+\bibitem{Vetoio2011}
+C.~Trubiani, {PhD Thesis in Computer Science Automated generation of
+  architectural feedback from software performance analysis results Catia
+  Trubiani}, Language.
+
+\bibitem{Grechanik2012}
+M.~Grechanik, C.~Fu, Q.~Xie, {Automatically finding performance problems with
+  feedback-directed learning software testing}, Ieee, 2012, pp. 156--166.
+\newblock \href {http://dx.doi.org/10.1109/ICSE.2012.6227197}
+  {\path{doi:10.1109/ICSE.2012.6227197}}.
+
+\bibitem{Arslan2015}
+M.~Arslan, U.~Qamar, S.~Hassan, S.~Ayub,
+  \href{http://www.scopus.com/inward/record.url?eid=2-s2.0-84958250651{\&}partnerID=tZOtx3y1}{{Automatic
+  performance analysis of cloud based load testing of web-application {\&} its
+  comparison with traditional load testing}}, 2015 6th IEEE International
+  Conference on Software Engineering and Service Science (ICSESS)
+  2015-Novem~(September) (2015) 140--144.
+\newblock \href {http://dx.doi.org/10.1109/ICSESS.2015.7339023}
+  {\path{doi:10.1109/ICSESS.2015.7339023}}.
+\newline\urlprefix\url{http://www.scopus.com/inward/record.url?eid=2-s2.0-84958250651{\&}partnerID=tZOtx3y1}
+
+\bibitem{Sullivan}
+M.~O. Sullivan, S.~V\"{o}ssner, J.~Wegener, D.-b. Ag, {Testing Temporal
+  Correctness of Real-Time Systems --- A New Approach Using Genetic Algorithms
+  and Cluster Analysis ---}, 1998, pp. 1--20.
+
+\bibitem{Gois2016}
+N.~Gois, P.~Porfirio, A.~Coelho, T.~Barbosa, {Improving Stress Search Based
+  Testing using a Hybrid Metaheuristic Approach}, in: Proceedings of the 2016
+  Latin American Computing Conference (CLEI), 2016, pp. 718--728.
+
+\bibitem{Harman2010}
+M.~Harman, P.~McMinn, {A theoretical and empirical study of search-based
+  testing: Local, global, and hybrid search}, Vol.~36, 2010, pp. 226--247.
+\newblock \href {http://dx.doi.org/10.1109/TSE.2009.71}
+  {\path{doi:10.1109/TSE.2009.71}}.
+
+\bibitem{Zitzler2001}
+E.~Zitzler, M.~Laumanns, L.~Thiele, {SPEA2: Improving the Strength Pareto
+  Evolutionary Algorithm}, Evolutionary Methods for Design Optimization and
+  Control with Applications to Industrial Problems (2001) 95--100\href
+  {http://arxiv.org/abs/arXiv:1011.1669v3} {\path{arXiv:arXiv:1011.1669v3}},
+  \href {http://dx.doi.org/10.1.1.28.7571} {\path{doi:10.1.1.28.7571}}.
+
+\bibitem{Deb2000}
+K.~Deb, S.~Agrawal, A.~Pratap, T.~Meyarivan,
+  \href{http://repository.ias.ac.in/83498/}{{A fast elitist non-dominated
+  sorting genetic algorithm for multi-objective optimization: NSGA-II}},
+  Parallel Problem Solving from Nature PPSN VI (2000) 849--858\href
+  {http://dx.doi.org/10.1007/3-540-45356-3_83}
+  {\path{doi:10.1007/3-540-45356-3_83}}.
+\newline\urlprefix\url{http://repository.ias.ac.in/83498/}
+
+\bibitem{Yoo2007}
+S.~Yoo, M.~Harman,
+  \href{http://doi.acm.org/10.1145/1273463.1273483{\%}5Cnhttp://dl.acm.org/ft{\_}gateway.cfm?id=1273483{\&}type=pdf{\%}5Cnhttp://portal.acm.org/citation.cfm?doid=1273463.1273483}{{Pareto
+  efficient multi-objective test case selection}}, Proceedings of the 2007
+  international symposium on Software testing and analysis - ISSTA '07 (2007)
+  140\href {http://dx.doi.org/10.1145/1273463.1273483}
+  {\path{doi:10.1145/1273463.1273483}}.
+\newline\urlprefix\url{http://doi.acm.org/10.1145/1273463.1273483{\%}5Cnhttp://dl.acm.org/ft{\_}gateway.cfm?id=1273483{\&}type=pdf{\%}5Cnhttp://portal.acm.org/citation.cfm?doid=1273463.1273483}
+
+\bibitem{Tervonen2017}
+T.~Tervonen, U.~Kingdom, {Evaluation of multi-objective optimization approaches
+  for solving green supply chain design problems : Evaluation of
+  multi-objective optimization approaches for solving green supply chain design
+  problems}~(April).
+\newblock \href {http://dx.doi.org/10.1016/j.omega.2016.07.003}
+  {\path{doi:10.1016/j.omega.2016.07.003}}.
+
+\bibitem{MatneiFilho2016}
+R.~A. {Matnei Filho}, S.~R. Vergilio,
+  \href{http://jserd.springeropen.com/articles/10.1186/s40411-016-0030-9}{{A
+  multi-objective test data generation approach for mutation testing of feature
+  models}}, Journal of Software Engineering Research and Development 4~(1)
+  (2016) 4.
+\newblock \href {http://dx.doi.org/10.1186/s40411-016-0030-9}
+  {\path{doi:10.1186/s40411-016-0030-9}}.
+\newline\urlprefix\url{http://jserd.springeropen.com/articles/10.1186/s40411-016-0030-9}
+
+\bibitem{Deb2005}
+K.~Deb, M.~Mohan, S.~Mishra, {Evaluating the epislon-domination based
+  multiobjective evolutionary algorithm for a quick computation of
+  Pareto-optimal solutions}, Evolutionary Computation Journal 13~(4) (2005)
+  501--525.
+\newblock \href {http://dx.doi.org/10.1162/106365605774666895}
+  {\path{doi:10.1162/106365605774666895}}.
+
+\bibitem{Lacour2015}
+R.~Lacour, K.~Klamroth, C.~M. Fonseca, {A box decomposition algorithm to
+  compute the hypervolume indicator}, Computers and Operations Research (2015)
+  1--21\href {http://arxiv.org/abs/1510.01963} {\path{arXiv:1510.01963}}, \href
+  {http://dx.doi.org/10.1016/j.cor.2016.06.021}
+  {\path{doi:10.1016/j.cor.2016.06.021}}.
+
+\bibitem{Knowles1999}
+J.~Knowles, D.~Corne, {The Pareto archived evolution strategy: a new baseline
+  algorithm$\backslash$nfor Pareto multiobjective optimisation}, Proceedings of
+  the 1999 Congress on Evolutionary Computation-CEC99 (Cat. No. 99TH8406) 1
+  (1999) 98--105.
+\newblock \href {http://dx.doi.org/10.1109/CEC.1999.781913}
+  {\path{doi:10.1109/CEC.1999.781913}}.
+
+\bibitem{Oltean2005}
+M.~Oltean, A.~Abraham, K.~Mario, {Multiobjective Optimization Using Adaptive
+  Pareto Archived Evolution Strategy} (2005) 1--6.
+
+\bibitem{Michalak2014}
+K.~Michalak, \href{http://dx.doi.org/10.1016/j.asoc.2014.07.029}{{The effects
+  of asymmetric neighborhood assignment in the MOEA/D algorithm}}, Applied Soft
+  Computing Journal 25 (2014) 97--106.
+\newblock \href {http://dx.doi.org/10.1016/j.asoc.2014.07.029}
+  {\path{doi:10.1016/j.asoc.2014.07.029}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.asoc.2014.07.029}
+
+\bibitem{Zhang2007}
+Q.~Zhang, H.~Li, {MOEA/D: A Multiobjective Evolutionary Algorithm Based on
+  Decomposition}, IEEE Transactions on Evolutionary Computation 11~(6) (2007)
+  712--731.
+\newblock \href {http://dx.doi.org/10.1109/TEVC.2007.892759}
+  {\path{doi:10.1109/TEVC.2007.892759}}.
+
+\bibitem{McConaghy2011}
+T.~McConaghy, P.~Palmers, M.~Steyaert, G.~G.~E. Gielen, {Trustworthy genetic
+  programming-based synthesis of analog circuit topologies using hierarchical
+  domain-specific building blocks}, IEEE Transactions on Evolutionary
+  Computation 15~(4) (2011) 557--570.
+\newblock \href {http://dx.doi.org/10.1109/TEVC.2010.2093581}
+  {\path{doi:10.1109/TEVC.2010.2093581}}.
+
+\bibitem{Yuen2009}
+T.~J. Yuen, R.~Ramli, {Comparison of Computational Efficiency of Moea
+  $\backslash$ D and Nsga-Ii for Passive Vehicle Suspension Optimization}
+  2~(Cd).
+
+\bibitem{deb2001multi}
+K.~Deb, Multi-objective optimization using evolutionary algorithms, Vol.~16,
+  John Wiley \& Sons, 2001.
+
+\bibitem{janssens2010multiple}
+G.~Janssens, J.~Pangilinan, Multiple criteria performance analysis of
+  non-dominated sets obtained by multi-objective evolutionary algorithms for
+  optimisation, Artificial Intelligence Applications and Innovations (2010)
+  94--103.
+
+\bibitem{Zitzler1999}
+E.~Zitzler, L.~Thiele, {Multiobjective evolutionary algorithms: a comparative
+  case study$\backslash$nand the strength Pareto approach}, IEEE Transactions
+  on Evolutionary Computation 3~(4) (1999) 257--271.
+\newblock \href {http://dx.doi.org/10.1109/4235.797969}
+  {\path{doi:10.1109/4235.797969}}.
+
+\bibitem{Sandler2004}
+C.~Sandler, T.~Badgett, T.~Thomas, {The Art of Software Testing}, John Wiley \&
+  Sons, 2004, p. 200.
+
+\bibitem{Rakshit2017}
+P.~Rakshit, A.~Konar, S.~Das,
+  \href{http://dx.doi.org/10.1016/j.swevo.2016.09.002}{{Noisy evolutionary
+  optimization algorithms – A comprehensive survey}}, Swarm and Evolutionary
+  Computation 33 (2017) 18--45.
+\newblock \href {http://dx.doi.org/10.1016/j.swevo.2016.09.002}
+  {\path{doi:10.1016/j.swevo.2016.09.002}}.
+\newline\urlprefix\url{http://dx.doi.org/10.1016/j.swevo.2016.09.002}
+
+\bibitem{Siegmund2013}
+F.~Siegmund, A.~H.~C. Ng, K.~Deb, {A comparative study of dynamic resampling
+  strategies for guided Evolutionary Multi-objective Optimization}, 2013 IEEE
+  Congress on Evolutionary Computation, CEC 2013~(2013008) (2013) 1826--1835.
+\newblock \href {http://dx.doi.org/10.1109/CEC.2013.6557782}
+  {\path{doi:10.1109/CEC.2013.6557782}}.
+
+\bibitem{DiPietro2004}
+A.~{Di Pietro}, L.~While, L.~Barone,
+  \href{http://ieeexplore.ieee.org/xpl/freeabs{\_}all.jsp?arnumber=1331041}{{Applying
+  evolutionary algorithms to problems with noisy, time-consuming fitness
+  functions}}, Proceedings of the 2004 Congress on Evolutionary Computation
+  (2004) 1254--1261\href {http://dx.doi.org/10.1109/CEC.2004.1331041}
+  {\path{doi:10.1109/CEC.2004.1331041}}.
+\newline\urlprefix\url{http://ieeexplore.ieee.org/xpl/freeabs{\_}all.jsp?arnumber=1331041}
+
+\end{thebibliography}

@@ -1,0 +1,125 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: elsarticle-template.aux
+The style file: ../elsarticle-num.bst
+Database file #1: ../mybibfile.bib
+Repeated entry---line 1050 of file ../mybibfile.bib
+ : @inproceedings{Vetoio2011
+ :                          ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1067 of file ../mybibfile.bib
+ : @inproceedings{Gois2016
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2065 of file ../mybibfile.bib
+ : @inproceedings{Gois2016
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 2961 of file ../mybibfile.bib
+ : @article{Wert2014
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3213 of file ../mybibfile.bib
+ : @phdthesis{Jiang2010
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3227 of file ../mybibfile.bib
+ : @article{Afzal2009a
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3255 of file ../mybibfile.bib
+ : @book{Molyneaux2009
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3271 of file ../mybibfile.bib
+ : @article{Sullivan
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3287 of file ../mybibfile.bib
+ : @article{Vetoio2011
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3305 of file ../mybibfile.bib
+ : @inproceedings{Gois2016
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3609 of file ../mybibfile.bib
+ : @article{Sandler2004
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3797 of file ../mybibfile.bib
+ : @article{Grechanik2012
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3853 of file ../mybibfile.bib
+ : @article{Harman2010
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4483 of file ../mybibfile.bib
+ : @article{Knowles1999
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4525 of file ../mybibfile.bib
+ : @article{Zhang2007
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 4575 of file ../mybibfile.bib
+ : @article{Michalak2014
+ :                      ,
+I'm skipping whatever remains of this entry
+Warning--empty school in Jiang2010
+Warning--empty booktitle in Wert2014
+Warning--empty booktitle in Afzal2009a
+Warning--can't use both volume and number fields in Afzal2009a
+Warning--empty booktitle in Grechanik2012
+Warning--empty booktitle in Sullivan
+Warning--empty booktitle in Harman2010
+Warning--can't use both volume and number fields in Harman2010
+Warning--empty journal in Tervonen2017
+Warning--there's a number but no volume in Tervonen2017
+Warning--empty journal in Oltean2005
+Warning--empty journal in Yuen2009
+Warning--empty booktitle in Sandler2004
+Warning--there's a number but no volume in Siegmund2013
+You've used 30 entries,
+            2937 wiz_defined-function locations,
+            899 strings with 12609 characters,
+and the built_in function-call counts, 9860 in all, are:
+= -- 973
+> -- 263
+< -- 12
++ -- 107
+- -- 77
+* -- 759
+:= -- 1272
+add.period$ -- 45
+call.type$ -- 30
+change.case$ -- 30
+chr.to.int$ -- 6
+cite$ -- 44
+duplicate$ -- 329
+empty$ -- 1106
+format.name$ -- 102
+if$ -- 2547
+int.to.chr$ -- 0
+int.to.str$ -- 30
+missing$ -- 31
+newline$ -- 123
+num.names$ -- 30
+pop$ -- 215
+preamble$ -- 2
+purify$ -- 0
+quote$ -- 0
+skip$ -- 635
+stack$ -- 0
+substring$ -- 536
+swap$ -- 132
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 14
+while$ -- 82
+width$ -- 32
+write$ -- 286
+(There were 16 error messages)
